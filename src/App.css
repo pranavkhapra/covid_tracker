@@ -21,7 +21,7 @@ body {
   justify-content: space-between;
 }
 .app__dropdown {
-  background-color: white;
+  background-color:#F5BCBA;
 }
 .app__left {
   flex: 0.9; /* this is going to take up 90% of the screen */
